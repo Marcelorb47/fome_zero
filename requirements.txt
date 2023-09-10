@@ -1,0 +1,10 @@
+
+folium==0.14.0python
+haversine==2.8.0
+inflection==0.5.1
+numpy==1.23.4
+pandas==1.5.1
+streamlit==1.26.0
+streamlit-folium==0.13.0
+streamlit-option-menu==0.3.6
+python==3.10.5
