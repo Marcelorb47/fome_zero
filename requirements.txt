@@ -1,5 +1,5 @@
 
-folium==0.14.0python
+folium==0.14.0
 haversine==2.8.0
 inflection==0.5.1
 numpy==1.23.4
